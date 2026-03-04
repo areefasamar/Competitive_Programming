@@ -1,5 +1,5 @@
-// Problem: Beautiful Matrix
-// URL: https://codeforces.com/problemset/problem/263/A
+// Problem: Petya and Strings
+// URL: https://codeforces.com/contest/112/problem/A
 // Rating: 800
 
 #include <bits/stdc++.h>
